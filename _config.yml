@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "zzzzzz实验室"
 title_separator          : "-"
-name                     : &name "Tom"
+name                     : &name "besticsp"
 description              : &description "personal description"
-url                      : https://jesslos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://besticsp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jesslos/jesslos.github.io"
+repository               : "jesslos/besticsp.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,7 +84,7 @@ author:
   location         : "Beijing"
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "123456789"
+  email            : "zjy@besti.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,10 +92,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jesslos"
+  github           : "besticsp"
   google_plus      :
   keybase          :
-  instagram        : "https://www.7k7k.com"
+  instagram        : 
   lastfm           :
   linkedin         :
   orcid            : # "http://orcid.org/yourorcidurl"
