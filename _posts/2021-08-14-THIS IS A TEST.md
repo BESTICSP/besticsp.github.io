@@ -1,6 +1,6 @@
 ---
 title: 'T1 TEST'
-date: 2012-08-14
+date: 2021-08-14
 permalink: /posts/2012/08/THIS IS A TEST/
 tags:
   - cool posts
