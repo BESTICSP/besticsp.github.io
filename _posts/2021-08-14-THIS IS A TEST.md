@@ -1,7 +1,7 @@
 ---
 title: 'T1 TEST'
 date: 2012-08-14
-permalink: /posts/2012/08/blog-post-5/
+permalink: /posts/2012/08/THIS IS A TEST/
 tags:
   - cool posts
   - category1
