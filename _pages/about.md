@@ -1,5 +1,6 @@
 ---
 permalink: /
+avator: "profile.png"
 title: "Welcome to our team！"
 excerpt: "About me"
 author_profile: true
