@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "BESTI-CSP实验室1"
+title                    : "BESTI-CSP实验室"
 title_separator          : "-"
 name                     : &name "besticsp"
 description              : &description "personal description"
@@ -85,13 +85,13 @@ author:
   employer         : "Beijing Electronic Science and Technology Institute"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "zjy@besti.edu.cn"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  uri              : "123123"
+  bitbucket        : "123123"
+  codepen          : "123123"
+  dribbble         : "123123"
+  flickr           : "123123"
+  facebook         : "123123"
+  foursquare       : "123123"
   github           : "besticsp"
   google_plus      :
   keybase          :
