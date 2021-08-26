@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "BESTI-CSP实验室"
+title                    : "BESTI-CSP实验室1"
 title_separator          : "-"
 name                     : &name "besticsp"
 description              : &description "personal description"
