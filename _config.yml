@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "zzzzzz实验室"
+title                    : "BESTI-CSP实验室"
 title_separator          : "-"
 name                     : &name "besticsp"
 description              : &description "personal description"
@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "BESTI实验室小分队"
+  name             : "BESTI-CSP实验室"
   avatar           : "profile.png"
-  bio              : "不断创新，不断进步"
-  location         : "Beijing"
-  employer         :
+  bio              : "北京电子科技学院系统安全与隐私保护 (CyberSecurity and Privacy, CSP) 实验室，聚焦于隐私保护、人工智能安全、系统安全、联邦学习、网络安全等方面研究与产业转化"
+  location         : "Beijing, China"
+  employer         : "Beijing Electronic Science and Technology Institute"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "zjy@besti.edu.cn"
   uri              :
