@@ -82,7 +82,7 @@ author:
   avatar           : "profile.png"
   bio              : "北京电子科技学院系统安全与隐私保护 (CyberSecurity and Privacy, CSP) 实验室，聚焦于隐私保护、人工智能安全、系统安全、联邦学习、网络安全等方面研究与产业转化"
   location         : "Beijing, China"
-  employer         : "Beijing Electronic Science and Technology Institute"
+  employer         : # "Beijing Electronic Science and Technology Institute"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "zjy@besti.edu.cn"
   uri              :
