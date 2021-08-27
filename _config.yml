@@ -81,18 +81,17 @@ author:
   name             : "BESTI-CSP实验室"
   avatar           : "profile.png"
   bio              : "北京电子科技学院系统安全与隐私保护 (CyberSecurity and Privacy, CSP) 实验室，聚焦于隐私保护、人工智能安全、系统安全、联邦学习、网络安全等方面研究与产业转化"
-  company          : "Beijing Electronic Science and Technology Institute"
   location         : "Beijing, China"
   employer         : # "Beijing Electronic Science and Technology Institute"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "zjy@besti.edu.cn"
   uri              :
-  bitbucket        :
+  bitbucket        : "bitbucket"
   codepen          :
-  dribbble         :
-  flickr           :
+  dribbble         : "dribbble"
+  flickr           : "flickr"
   facebook         :
-  foursquare       :
+  foursquare       : "foursquare"
   github           : "besticsp"
   google_plus      :
   keybase          :
@@ -103,12 +102,12 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
+  steam            : "Beijing Electronic Science and Technology Institute"
+  tumblr           : "tumblr"
   twitter          : # "replacethistwitterhandle"
-  vine             :
+  vine             : "vine"
   weibo            :
-  xing             :
+  xing             : "xing"
   youtube          :
   wikipedia        :
 
