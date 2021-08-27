@@ -1,6 +1,5 @@
 ---
 permalink: /
-avatar: "profile.png"
 title: "Welcome to our team！"
 excerpt: "About me"
 author_profile: true
@@ -8,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+![list a topname logo](/images/topname.png "Hello!")
 TEST
 ======
 # this is a test 
