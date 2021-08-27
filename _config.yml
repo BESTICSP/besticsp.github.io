@@ -13,7 +13,7 @@ name                     : &name "besticsp"
 description              : &description "personal description"
 url                      : https://besticsp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jesslos/besticsp.github.io"
+repository               : "besticsp/besticsp.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "BESTI-CSP系统安全与隐私保护实验室"
+  name             : "BESTI-CSPCyberSecurityAndPrivacyLab"
   avatar           : "profile.png"
   bio              : "BESTICSP"
   location         : "Beijing, China"
@@ -87,7 +87,7 @@ author:
   email            : "zjy@besti.edu.cn"
   uri              :
   bitbucket        :
-  codepen          :
+  codepen          : # "北京电子科技学院系统安全与隐私保护 (CyberSecurity and Privacy, CSP) 实验室，聚焦于隐私保护、人工智能安全、系统安全、联邦学习、网络安全等方面研究与产业转化"
   dribbble         :
   flickr           :
   facebook         :
