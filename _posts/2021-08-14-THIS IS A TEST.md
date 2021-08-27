@@ -1,7 +1,7 @@
 ---
 title: 'T1 TEST'
 date: 2021-08-14
-permalink: /posts/2012/08/THIS IS A TEST/
+permalink: /posts/2020/08/THIS IS A TEST/
 tags:
   - cool posts
   - category1
