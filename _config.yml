@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "BESTI-CSPCyberSecurityAndPrivacyLab"
+title                    : "BESTI-CyberSecurityAndPrivacyLab"
 title_separator          : "-"
 name                     : &name "besticsp"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "BESTI-CSP系统安全与隐私保护实验室"
   avatar           : "profile.png"
-  bio              : "BESTICSP"
+  bio              : "BESTICSP Beijing Electronic Science and Technology Institute Cyber Security and Privacy Lab"
   location         : "Beijing, China"
   employer         : "北京电子科技学院"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
