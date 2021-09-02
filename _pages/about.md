@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+[//]: # (哈哈我是注释，不会在浏览器中显示。)
+[^_^]: # (哈哈我是注释，不会在浏览器中显示。以下为团队logo)
 ![list a topname logo](/images/topname.png "Hello!")
 ======
 # this is a test 
@@ -50,3 +52,9 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+------
+[//]: # (注释，ieeetems_logo。)
+![ieeetems logo](/images/ieeelogo.jpg "Hello!")
+[^_^]: # (注释，ieeetems_logo)
+![ieeetems_logo](/images/ieeetems_logo.png "Hello!")
