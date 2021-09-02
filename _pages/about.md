@@ -54,8 +54,5 @@ For more info
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
 ------
-[//]: # (注释，ieeetems_logo。)
-![ieeetems logo](/images/ieeelogo.jpg "Hello!")
-------
 [^_^]: # (注释，ieeetems_logo)
 ![ieeetems_logo](/images/ieeetems_logo.png "Hello!")
