@@ -15,7 +15,7 @@ redirect_from:
 
 北京电子科技学院 路易斯安那大学拉法叶分校
 
-18901381961 | zjy@besti.edu.cn | 北京丰台区富丰路七号 
+<font>18901381961 | zjy@besti.edu.cn | 北京丰台区富丰路七号</font> 
 
 <font face="黑体" size=6 color=Orange>个人简介</font>    
 
