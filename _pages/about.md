@@ -92,7 +92,19 @@ Browsing、APWG 等国际组织共享，产品应用于英国电信、北京联�
 
 ---
 
-<font face="黑体" size=6>Selected Publications </font>
+<font face="黑体" size=6>Research interests</font>  
+
+Decentralized application, searchable encryption and system security, includes searchable asymmetric 
+encryption, cryptosystem, blockchain technology, and cryptocurrency, medical device and encryption 
+device security (e.g., device vulnerabilities, RF jamming, signal intrusion, DDoS, compromising 
+emanations) and radio security (e.g., RF, GPS, and Pseudo Base Station).Password privacy issues (e.g., 
+credential stuffing and the traffic analysis based on the user behavior), CAPTCHA research (how to 
+prevent the online typing attacks), penetration testing.
+
+---
+
+
+<font face="黑体" size=6>Selected Publications</font>
 
 * 张健毅, 《基于矩阵映射的拜占庭鲁棒联邦学习算法》, 计算机研究与发展, 2021.(CCF-A 中文期刊) 
 * 张健毅, 《基于通用计算平台 SM4-CTR 算法并行实现与优化》, 密码学报, 2021.(CCF-B 中文期刊) 
