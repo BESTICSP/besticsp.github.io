@@ -11,7 +11,7 @@ redirect_from:
 [^_^]: # (哈哈我是注释，不会在浏览器中显示。以下为团队logo)
 ![list a topname logo](/images/topname.png "Hello!")
 
-# 张健毅### 博士
+# 张健毅 ### 博士
 
 
 
