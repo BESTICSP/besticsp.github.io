@@ -17,6 +17,7 @@ redirect_from:
 
 <font>18901381961 | zjy@besti.edu.cn | 北京丰台区富丰路七号</font>  
 
+
 <font face="黑体" size=6 color=Orange>个人简介</font>    
 
 毕业于北京邮电大学计算机科学与技术专业信息安全方向。现任北京电子科技学院、路易斯安那大学拉法叶分校博士生导师。
