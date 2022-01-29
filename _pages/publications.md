@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Main Publications
+
 ## Conference:
 
 1. Wang, Z.; Ma, P.; Chi, Y. and Zhang, Jianyi, Medical Devices are at Risk: Information Security 
