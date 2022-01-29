@@ -7,17 +7,43 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-TEST
-======
-* this is a test！
 
-Education
-======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+# TEAM
+---
+
+## 网络空间安全专业
+
+* 2019届
+  > liming
+  
+  > tom
+
+
+## 计算机科学与技术
+
+* 2019届
+  > jack
+  
+  > bob
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Work experience
 ======
@@ -40,15 +66,3 @@ Skills
   * Sub-skill 2.3
 * Skill 345
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
-
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
