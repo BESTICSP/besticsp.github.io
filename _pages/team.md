@@ -9,7 +9,6 @@ redirect_from:
 
 
 
-# TEAM
 ---
 
 ## 网络空间安全专业
