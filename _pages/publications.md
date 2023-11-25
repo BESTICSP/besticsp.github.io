@@ -1,13 +1,10 @@
-
 ---
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-
 ---
 
-这是使用自定义字体的文本。
 
 <span style="font-family: 'academicons.ttf'; font-size: 16px; color: #0099FF;">1. Yuyang Han, Xu Ji, Zhiqiang Wang & Jianyi Zhang*. "Systematic Analysis of Security and Vulnerabilities in Miniapps" SaTS CCS Workshop 2023</span>
 2. Zhang, Jianyi*, Guan, Ronglin, Li, Xiuying , Zhao, Zhangchi, Sun, Zezheng. "Invisibility Spell: Adversarial Patch Attack Against Object Detectors" EAI SecureComm 2023
