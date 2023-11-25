@@ -6,31 +6,17 @@ author_profile: true
 ---
 
 
-## Conference:
+# Conference:
 
-1. Wang, Z.; Ma, P.; Chi, Y. and Zhang, Jianyi, Medical Devices are at Risk: Information Security 
-on Diagnostic Imaging System[C]//In Proceedings of the 2018 ACM SIGSAC Conference on 
-Computer and Communications Security (CCS2018), ACM, 2018: 2309-2311.
-
-2. Wang, Z.; Ma, P.; Wang, R.; Zhang, Jianyi; Chi, Y.; Yang, T., Secure Medical Data Collection 
-via Local Differential Privacy[C]// IEEE International Conference on Computer and 
-Communications, IEEE, 2018.
-
-3. Zhang, Jianyi, URL Based Gateway Side Phishing Detection Method[C]// IEEE International 
-Conference on Trust, Security and Privacy in Computing and Communications (TrustCOM), 
-IEEE, 2016: 268-275
-
-4. Zhang, Jianyi; Song, Chenggen; Jin, X., Network Security Situation Awareness Based on 
-Phishing Detection[C]//Applied Mechanics and Materials. Guilin: IEEE, 2014, 644: 2784-2787.
-
-5. Zhang, Jianyi; Wang, Y., A real-time automatic detection of phishing URLs[C]// International 
-Conference on Computer Science and Network Technology, IEEE, 2012: 1212-1216. 
-
-6. Zhang, Jianyi; Wu, Chaohua; Guan, Hainan, et al., An content-analysis based large scale Anti-Phishing Gateway[C]// 2010 12th IEEE International Conference on Communication Technology (ICCT).Nanjing: IEEE, 2010: 979-982.
-
-7. Ouyang, X.; Tian, B.; Li, Q.; Zhang Jianyi; Hu, Z.; Xin, Y., A novel framework of defense 
-system against DoS attacks in wireless sensor networks[C]// 2011 7th International Conference on 
-Wireless Communications, Networking and Mobile Computing (WiCOM), IEEE, 2011: 1-5.
+1. Yuyang Han, Xu Ji, Zhiqiang Wang & Jianyi Zhang*. "Systematic Analysis of Security and Vulnerabilities in Miniapps" SaTS CCS Workshop 2023
+2. Zhang, Jianyi*, Guan, Ronglin, Li, Xiuying , Zhao, Zhangchi, Sun, Zezheng. "Invisibility Spell: Adversarial Patch Attack Against Object Detectors" EAI SecureComm 2023
+3. Zhang, Jianyi*, Zhenkui Li, Yudong Liu, Zezheng Sun, and Zhiqiang Wang. "Safte: A Self-Injection Based Anti-Fuzzing Technique Anonymous." Computers and Electrical Engineering
+4. Li, Xiaodong, Hehe Gao, Jianyi Zhang*, Shuya Yang, Xin Jin, and Kim-Kwang Raymond Choo. "GPU Accelerated Full Homomorphic Encryption Cryptosystem, Library and Applications for IoT Systems." IEEE Internet of Things Journal (2023).
+5. Shi, Rui, Yang Yang, Huamin Feng, Feng Yuan, Huiqin Xie, and Jianyi Zhang*. "PriRPT: Practical blockchain-based privacy-preserving reporting system with rewards." Journal of Systems Architecture 143 (2023): 102985.
+6. Zhang, Jianyi*, Xuanxi Huang, Yaqi Liu, Yuyang Han, and Zixiao Xiang. "GAN-based Medical Image Small Region Forgery Detection via a Two-Stage Cascade Framework."PLOS One, 2023.
+7. Zhang, Jianyi*, Leixin Yang, Yuyang Han, Zixiao Xiang, and Xiali Hei. "A Small Leak Will Sink Many Ships: Vulnerabilities Related to mini-programs Permissions." In 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC), pp. 595-606. IEEE, 2023.
+8. Shi, R., Yang, Y., Xie, H., Feng, H., Shi, G., & Zhang, J.* (2023). PriSign, A Privacy-Preserving Single Sign-On System for Cloud Environments. Applied Sciences, 13(2), 727.
+9. Zhang, J.*, Zhang, F., Jin, Q., Wang, Z., Lin, X., & Hei, X. (2023). XMAM: X-raying models with a matrix to reveal backdoor attacks for federated learning. Digital Communications and Networks.
 
 ---
 
