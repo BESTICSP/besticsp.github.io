@@ -19,7 +19,7 @@ redirect_from:
 ---
 
 
-<font face="宋体" size=6 color=Orange>个人简介</font>    
+<font face="KaiTi_GB2312" size=6 color=Orange>个人简介</font>    
 
 毕业于北京邮电大学计算机科学与技术专业信息安全方向。现任北京电子科技学院、路易斯安那大学拉法叶分校博士生导师。
 曾就职于华为安全部从事机器学习与信息安全结合方面的研究。10 年 IT 领域相关技术研发工作经验。对人工智能、机器学习、
