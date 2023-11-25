@@ -11,7 +11,7 @@ redirect_from:
 [^_^]: # (哈哈我是注释，不会在浏览器中显示。以下为团队logo)
 ![list a topname logo](/images/topname.png "Hello!")
 
-<font face="黑体" size=10>张健毅<font face="黑体" size=5>博士</font></font>   
+<font face="KAI" size=10>张健毅<font face="黑体" size=5>博士</font></font>   
 
 北京电子科技学院 路易斯安那大学拉法叶分校
 
